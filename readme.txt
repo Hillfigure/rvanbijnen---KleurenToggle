@@ -15,7 +15,7 @@
 
     Als je de poging wil testen:
     In js alle commented uncommenten. In css ook aangegeven wat gecomment moet worden.
-    Ik hoop dat je me kan vertellen hoe ik dit op moet lossen..
+    Ik hoop dat je me kan vertellen hoe ik dit op moet lossen...
 
 Bedankt voor het nakijken en bij vragen hoor ik het graag!
 
